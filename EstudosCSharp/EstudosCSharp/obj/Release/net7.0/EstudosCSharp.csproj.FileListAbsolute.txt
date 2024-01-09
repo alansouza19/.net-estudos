@@ -1,0 +1,14 @@
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\bin\Release\net7.0\EstudosCSharp.exe
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\bin\Release\net7.0\EstudosCSharp.deps.json
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\bin\Release\net7.0\EstudosCSharp.runtimeconfig.json
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\bin\Release\net7.0\EstudosCSharp.dll
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\bin\Release\net7.0\EstudosCSharp.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.AssemblyInfo.cs
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.dll
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\refint\EstudosCSharp.dll
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\EstudosCSharp.genruntimeconfig.cache
+C:\Projetos Pessoais\.NET\.net-estudos\EstudosCSharp\EstudosCSharp\obj\Release\net7.0\ref\EstudosCSharp.dll
