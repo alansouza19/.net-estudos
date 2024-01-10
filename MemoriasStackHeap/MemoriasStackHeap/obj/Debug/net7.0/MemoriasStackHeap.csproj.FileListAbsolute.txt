@@ -1,0 +1,14 @@
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\bin\Debug\net7.0\MemoriasStackHeap.exe
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\bin\Debug\net7.0\MemoriasStackHeap.deps.json
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\bin\Debug\net7.0\MemoriasStackHeap.runtimeconfig.json
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\bin\Debug\net7.0\MemoriasStackHeap.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\bin\Debug\net7.0\MemoriasStackHeap.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.AssemblyInfo.cs
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\refint\MemoriasStackHeap.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\MemoriasStackHeap.genruntimeconfig.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MemoriasStackHeap\MemoriasStackHeap\obj\Debug\net7.0\ref\MemoriasStackHeap.dll
