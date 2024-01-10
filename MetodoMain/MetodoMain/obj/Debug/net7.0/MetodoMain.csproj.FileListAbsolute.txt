@@ -1,0 +1,14 @@
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\bin\Debug\net7.0\MetodoMain.exe
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\bin\Debug\net7.0\MetodoMain.deps.json
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\bin\Debug\net7.0\MetodoMain.runtimeconfig.json
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\bin\Debug\net7.0\MetodoMain.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\bin\Debug\net7.0\MetodoMain.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.AssemblyInfo.cs
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\refint\MetodoMain.dll
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.pdb
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\MetodoMain.genruntimeconfig.cache
+C:\Projetos Pessoais\.NET\.net-estudos\MetodoMain\MetodoMain\obj\Debug\net7.0\ref\MetodoMain.dll
